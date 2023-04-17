@@ -3,7 +3,7 @@
   "description": "Interview test",
   "require": {
     "php": "^7.2",
-    "firebase/php-jwt": "^5.2"
+    "firebase/php-jwt": "^6.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5"
